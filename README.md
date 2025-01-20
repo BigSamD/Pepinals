@@ -136,7 +136,7 @@ node . prc-20 deploy <address> <ticker> <max token supply> <max allowed mint lim
 Example:
 
 ```bash
-node . prc-20 deploy PqFpNRKEWeTusmJ5HCx3Hzc1YYKkKCc2ih frog 1000 100
+node . prc-20 deploy PqFpNRKEWeTusmJ5HCx3Hzc1YYKkKCc2ih pepi 21000000 10
 ```
 
 ### Mint PRC-20 tokens
