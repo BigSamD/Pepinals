@@ -27,7 +27,7 @@ Use the following commands to clone the repository:
 
 ```bash
 cd
-git clone https://github.com/BigSam/Pepinals.git
+git clone https://github.com/BigSamD/Pepinals.git
 ```
 
 #### Install dependencies
