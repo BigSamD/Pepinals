@@ -150,7 +150,7 @@ node . prc-20 mint <address> <ticker> <amount>
 Example:
 
 ```bash
-node . prc-20 mint PqFpNRKEWeTusmJ5HCx3Hzc1YYKkKCc2ih frog 100
+node . prc-20 mint PqFpNRKEWeTusmJ5HCx3Hzc1YYKkKCc2ih pepi 10
 ```
 
 ## Viewing Pepinals
