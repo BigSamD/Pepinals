@@ -52,7 +52,7 @@ Use the bulk minting script to mint Pepinals in bulk.
 Command:
 
 ```bash
-./bulk-mint.sh PXxqcV6yJnqd2x4xrZBF7XxJUxmxSxhMxn pepi-token 10
+./bulk-mint.sh PqFpNRKEWeTusmJ5HCx3Hzc1YYKkKCc2ih pepi-token 10
 ```
 
 - This command will:
